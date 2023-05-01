@@ -16,10 +16,10 @@ The site is composed of the following 4 pillars:
 <img src="assets/img/splash/bootcamp_banner.jpg" class="img-fluid rounded" alt="bootcamp">
 
 ### Pilar Two: Courses
-<img src="assets/img/splash/courses_banner.jpg" class="img-fluid rounded" alt="bootcamp">
+<img src="assets/img/splash/courses_banner.jpg" class="img-fluid rounded" alt="courses">
 
 ### Pilar Three: Media
-<img src="assets/img/splash/media_banner.jpg" class="img-fluid rounded" alt="bootcamp">
+<img src="assets/img/splash/media_banner.jpg" class="img-fluid rounded" alt="media">
 
 ### Pilar Four: Team
-<img src="assets/img/splash/team_banner.jpg" class="img-fluid rounded" alt="bootcamp">
+<img src="assets/img/splash/team_banner.jpg" class="img-fluid rounded" alt="team">
