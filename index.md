@@ -5,4 +5,3 @@ permalink: /URL-PATH
 ---
 
 Big Orange Soda
-
