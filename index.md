@@ -7,7 +7,7 @@ title: "Beautiful Patterns"
 
 The site is devided into 4 sections:
 - [Bootcamps](bootcamps.html): Face-To-Face workshops
-- [Courses](course.html): Online courses
+- [Courses](courses.html): Online courses
 - [Media](media.html): BP Voices 
 - [People](people.html): Peet the team
 
