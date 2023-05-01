@@ -9,7 +9,7 @@ The site is composed of the following 4 pillars:
 - [Bootcamps](bootcamps.html): Face-To-Face workshops
 - [Courses](courses.html): Online courses
 - [Media](media.html): BP Voices 
-- [People](people.html): Peet the team
+- [People](people.html): Meet the team
 
 
 ### Pilar One: Bootcamps
