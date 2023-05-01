@@ -13,7 +13,7 @@ To create a heading, add one to six # symbols before your heading text. The numb
 # Code
 You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted. You can also press the Command+E (Mac) or Ctrl+E (Windows/Linux) keyboard shortcut to insert the backticks for a code block within a line of Markdown.
 
-Some basic Git commands are:
+Some basic Git commands are:<br>
 \`\`\`
 git status<br>
 git add<br>
@@ -40,20 +40,20 @@ You can create an inline link by wrapping link text in brackets [ ], and then wr
 
 You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V.
 
-This site was built using \[GitHub Pages\]\(https://pages.github.com/\).
+This site was built using \[GitHub Pages\]\(https://pages.github.com/\).<br><br>
 This site was built using [GitHub Pages](https://pages.github.com/).
 ---
 
 # Images
 You can display an image by adding ! and wrapping the alt text in [ ]. Alt text is a short text equivalent of the information in the image. Then, wrap the link for the image in parentheses ().
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://placehold.co/150x100)
-
 \!\[Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.\]\(https://placehold.co/150x100\)
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://placehold.co/150x100)
 ---
 
 # Lists
-You can make an unordered list by preceding one or more lines of text with -, *, or +.
+You can make an unordered list by preceding one or more lines of text with -, *, or +.<br>
 \- George Washington<br>
 \* John Adams<br>
 \+ Thomas Jefferson<br>
@@ -75,7 +75,7 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 - \[x\] #739
 - \[ \] https://github.com/octo-org/octo-repo/issues/740
 - \[ \] Add delight to the experience when all tasks are complete :tada:
-
+<br>
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
