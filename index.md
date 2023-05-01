@@ -15,9 +15,9 @@ You can call out code or a command within a sentence with single backticks. The 
 
 Some basic Git commands are:
 \`\`\`
-git status
-git add
-git commit
+git status<br>
+git add<br>
+git commit<br>
 \`\`\`
 
 ```
@@ -54,9 +54,9 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Alt text 
 
 # Lists
 You can make an unordered list by preceding one or more lines of text with -, *, or +.
-\- George Washington
-\* John Adams
-\+ Thomas Jefferson
+\- George Washington<br>
+\* John Adams<br>
+\+ Thomas Jefferson<br>
 
 - George Washington
 * John Adams
@@ -64,10 +64,6 @@ You can make an unordered list by preceding one or more lines of text with -, *,
 
 
 ### To order your list, precede each line with a number.
-
-\1. James Madison
-\2. James Monroe
-\3. John Quincy Adams
 
 1. James Madison
 2. James Monroe
@@ -89,10 +85,10 @@ To create a task list, preface list items with a hyphen and space followed by [ 
 # Creating a table
 You can create tables with pipes | and hyphens -. Hyphens are used to create each column's header, while pipes separate each column. You must include a blank line before your table in order for it to correctly render.
 
-\| First Header   \| Second Header  \|
-\| \------------- \| \------------- \|
-\| Content Cell   \| Content Cell   \|
-\| Content Cell   \| Content Cell   \|
+\| First Header   \| Second Header  \|<br>
+\| \------------- \| \------------- \|<br>
+\| Content Cell   \| Content Cell   \|<br>
+\| Content Cell   \| Content Cell   \|<br>
 
 | First Header  | Second Header |
 | ------------- | ------------- |
