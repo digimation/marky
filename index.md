@@ -1,2 +1,2 @@
-## Landing page
+## Beautiful patterns
 
