@@ -12,14 +12,14 @@ The site is composed of the following 4 pillars:
 - [People](people.html): Meet the team
 
 
-### Attend a face-to-face bootcamp
+Attend a face-to-face bootcamp
 ![bootcamp(assets/img/splash/bootcamp_500_label.jpg)](bootcamps.html)
 
-### Take a course online
+Take a course online
 ![courses(assets/img/splash/courses_500_label.jpg)](courses.html)
 
-### The voices of Beautiful Patterns
+The voices of Beautiful Patterns
 ![media(assets/img/splash/media_500_label.jpg)](media.html)
 
-### Meet the team!
+Meet the team!
 ![team(assets/img/splash/team_500_label.jpg)](people.html)
