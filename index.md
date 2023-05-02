@@ -13,13 +13,13 @@ The site is composed of the following 4 pillars:
 
 
 ### Pilar One: Bootcamps
-![bootcamp](assets/img/splash/bootcamp_banner.jpg)
+![bootcamp](assets/img/splash/bootcamp_500.jpg)
 
 ### Pilar Two: Courses
-<img src="assets/img/splash/courses_banner.jpg" class="img-fluid rounded" alt="courses">
+![courses](assets/img/splash/courses_500.jpg)
 
 ### Pilar Three: Media
-<img src="assets/img/splash/media_banner.jpg" class="img-fluid rounded" alt="media">
+![media](assets/img/splash/media_500.jpg)
 
 ### Pilar Four: Team
-<img src="assets/img/splash/team_banner.jpg" class="img-fluid rounded" alt="team">
+![team](assets/img/splash/team_500.jpg)
