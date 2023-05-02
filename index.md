@@ -12,14 +12,14 @@ The site is composed of the following 4 pillars:
 - [People](people.html): Meet the team
 
 
-### Pilar One: Bootcamps
+### Bootcamps
 ![bootcamp](assets/img/splash/bootcamp_500.jpg)
 
-### Pilar Two: Courses
+### Courses
 ![courses](assets/img/splash/courses_500.jpg)
 
-### Pilar Three: Media
+### Media
 ![media](assets/img/splash/media_500.jpg)
 
-### Pilar Four: Team
+### Team
 ![team](assets/img/splash/team_500.jpg)
