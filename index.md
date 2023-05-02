@@ -17,3 +17,7 @@ The site is composed of the following 4 pillars:
 Beautiful Patterns is an interdisciplinary effort that seeks high-impact solutions to the complex socialtechnical challenge of women's STEM education, with and emphasis in computation, in the developing world.
 
 Beautiful Patterns mission is to develop algorithmic thinking skills of young women, through a high level program, taught by women students of MIT and other prestigious universities, which allows them to expose their talent internationally.
+
+<!-- 
+Note: you can use this page as a template. Remember to keep pages at the root.
+-->
