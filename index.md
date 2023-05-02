@@ -12,14 +12,6 @@ The site is composed of the following 4 pillars:
 - [People](people.html): Meet the team
 
 
-Attend a face-to-face bootcamp  
-[![bootcamp](assets/img/splash/bootcamp_500_label.jpg)](bootcamps.html)
+Beautiful Patterns is an interdisciplinary effort that seeks high-impact solutions to the complex socialtechnical challenge of women's STEM education, with and emphasis in computation, in the developing world.
 
-Take a course online  
-[![courses](assets/img/splash/courses_500_label.jpg)](courses.html)
-
-The voices of Beautiful Patterns  
-[![media](assets/img/splash/media_500_label.jpg)](media.html)
-
-Meet the team!  
-[![team](assets/img/splash/team_500_label.jpg)](people.html)
+Beautiful Patterns mission is to develop algorithmic thinking skills of young women, through a high level program, taught by women students of MIT and other prestigious universities, which allows them to expose their talent internationally.
