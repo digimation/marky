@@ -21,3 +21,5 @@ Beautiful Patterns mission is to develop algorithmic thinking skills of young wo
 <!-- 
 Note: you can use this page as a template. Remember to keep pages at the root.
 -->
+
+[comment]: <> (Note: you can use this page as a template. Remember to keep pages at the root.)
