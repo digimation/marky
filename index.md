@@ -13,7 +13,7 @@ The site is composed of the following 4 pillars:
 
 
 ### Pilar One: Bootcamps
-<img src="assets/img/splash/bootcamp_banner.jpg" class="img-fluid rounded" alt="bootcamp">
+![bootcamp](assets/img/splash/bootcamp_banner.jpg)
 
 ### Pilar Two: Courses
 <img src="assets/img/splash/courses_banner.jpg" class="img-fluid rounded" alt="courses">
