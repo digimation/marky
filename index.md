@@ -13,13 +13,13 @@ The site is composed of the following 4 pillars:
 
 
 ### Attend a face-to-face bootcamp
-![bootcamp(bootcamps.html)](assets/img/splash/bootcamp_500_label.jpg)
+![bootcamp(assets/img/splash/bootcamp_500_label.jpg)](bootcamps.html)
 
 ### Take a course online
-![courses(courses.html)](assets/img/splash/courses_500_label.jpg)
+![courses(assets/img/splash/courses_500_label.jpg)](courses.html)
 
 ### The voices of Beautiful Patterns
-![media(media.html)](assets/img/splash/media_500_label.jpg)
+![media(assets/img/splash/media_500_label.jpg)](media.html)
 
 ### Meet the team!
-![team(people.html)](assets/img/splash/team_500_label.jpg)
+![team(assets/img/splash/team_500_label.jpg)](people.html)
