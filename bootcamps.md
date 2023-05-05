@@ -2,7 +2,7 @@
 layout: page
 title: Bootcamps
 image: assets/img/splash/bootcamp_large.jpg 
-description: Beautiful Patterns is an interdisciplinary effort that seeks high-impact solutions to the complex socialtechnical challenge of women's STEM education, with and emphasis in computation, in the developing world.
+description: Los bootcamps de Patrones Hermosos son talleres presenciales que te brindarán las habilidades y herramientas necesarias para destacar en Ciencia, Tecnología, Ingeniería y Matemáticas (STEM). A través de un enfoque práctico e interactivo, nuestros instructores expertos te guiarán en el camino hacia el éxito en el mundo de la tecnología y la innovación.
 ---
 
 # Bienvenidos a Bootcamps!
