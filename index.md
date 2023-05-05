@@ -5,18 +5,17 @@ image: assets/img/splash/landing.jpg
 description: Beautiful Patterns is an interdisciplinary effort that seeks high-impact solutions to the complex socialtechnical challenge of women's STEM education, with and emphasis in computation, in the developing world.
 ---
 
-# Welcome to Beautiful Patterns
+# Bienvenidos a Patrones Hermosos
 
-The site is composed of the following 4 pillars:
-- [Bootcamps](bootcamps.html): Face-To-Face workshops
-- [Courses](courses.html): Online courses
-- [Media](media.html): BP Voices 
-- [People](people.html): Meet the team
+El sitio está compuesto por los siguientes 4 pilares:
+- [Bootcamps](bootcamps.html): Talleres presenciales
+- [Cursos](courses.html): Cursos en línea
+- [Media](media.html): Voces de BP
+- [Personas](people.html): Conoce al equipo
 
+Patrones Hermosos es un esfuerzo interdisciplinario que busca soluciones de alto impacto al complejo desafío social-tecnológico de la educación STEM de las mujeres, con énfasis en la computación, en el mundo en desarrollo.
 
-Beautiful Patterns is an interdisciplinary effort that seeks high-impact solutions to the complex socialtechnical challenge of women's STEM education, with and emphasis in computation, in the developing world.
-
-Beautiful Patterns mission is to develop algorithmic thinking skills of young women, through a high level program, taught by women students of MIT and other prestigious universities, which allows them to expose their talent internationally.
+La misión de Patrones Hermosos es desarrollar habilidades de pensamiento algorítmico en mujeres jóvenes, a través de un programa de alto nivel impartido por estudiantes mujeres del MIT y otras prestigiosas universidades, lo que les permite exponer su talento a nivel internacional.
 
 <!-- 
 Note: you can use this page as a template. Remember to keep pages at the root.
