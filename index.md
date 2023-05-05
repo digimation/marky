@@ -2,7 +2,7 @@
 layout: page
 title: Beautiful Patterns
 image: assets/img/splash/landing.jpg 
-description: Beautiful Patterns is an interdisciplinary effort that seeks high-impact solutions to the complex socialtechnical challenge of women's STEM education, with and emphasis in computation, in the developing world.
+description: Patrones Hermosos es un esfuerzo interdisciplinario que busca soluciones de alto impacto al complejo desafío social-tecnológico de la educación STEM de las mujeres, con énfasis en la computación, en el mundo del desarrollo.
 ---
 
 # Bienvenidos a Patrones Hermosos
