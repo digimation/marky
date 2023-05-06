@@ -12,11 +12,10 @@
 
 
     <!-- Favicons -->
-    <!-- <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico"> -->
-    <link rel="icon" href='{{ "/assets/img/favicon.ico" | relative_url }}'>
+    <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
+    <!-- <link rel="icon" href='{{ "/assets/img/favicon.ico" | relative_url }}'> -->
     <meta name="theme-color" content="#712cf9">    
 
-    <!-- "{{ "/assets/img/favicon.ico" | relative_url }}"  -->
     <style>
       /* Show it is fixed to the top */
       body {
@@ -163,22 +162,22 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav me-auto mb-2 mb-md-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              <a class="nav-link active" aria-current="page" href="{{ site.baseurl }}index.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="bootcamps.html">Bootcamps</a>
-            </li>
-
-            <li class="nav-item">
-              <a class="nav-link" href="courses.html">Courses</a>
+              <a class="nav-link" href="{{ site.baseurl }}bootcamps.html">Bootcamps</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="media.html">Media</a>
+              <a class="nav-link" href="{{ site.baseurl }}courses.html">Courses</a>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="people.html">People</a>
+              <a class="nav-link" href="{{ site.baseurl }}media.html">Media</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}people.html">People</a>
             </li>
 
           </ul>
