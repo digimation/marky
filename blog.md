@@ -8,10 +8,11 @@ description: Beautiful Patterns is an interdisciplinary effort that seeks high-i
 # Welcome to the BP Blog!
 
 01
+# Recent Blog Posts
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
