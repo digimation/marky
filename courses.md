@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Courses
 image: assets/img/splash/courses.jpg 
 description: Los cursos de Patrones Hermosos te ofrecen acceso a una amplia gama de materiales didácticos en Ciencia, Tecnología, Ingeniería y Matemáticas (STEM) diseñados para mujeres en toda Latinoamérica. Ya sea que estés buscando ampliar tus habilidades existentes o aventurarte en un nuevo campo, nuestros cursos te brindarán una educación de alta calidad y accesible en línea. ¡Únete a nuestra comunidad inclusiva y global de mujeres en STEM y comienza a aprender hoy mismo!
