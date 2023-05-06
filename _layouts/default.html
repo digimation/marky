@@ -186,19 +186,6 @@
     
     <div class="col-lg-8 mx-auto p-4 py-md-5">
       <main>
-
-        <div class="mb-4 bg-body-tertiary rounded-3" style="background:red;color:white; background:url('{{ page.image}}'); background-size: cover;background-position: center; background-repeat: no-repeat; ">
-
-          <div class="container-fluid p-5 rounded-3" style="backdrop-filter: blur(5px);background-color: rgba(0, 0, 0, 0.4);">
-            <h1 class="display-5 fw-bold">{{page.title}}</h1>
-            <p class="col-md-12">{{page.description}}</p>
-            {% if page.linkUrl and page.linkText  %}
-              <a class="btn btn-primary" href="{{page.linkUrl}}" role="button">{{page.linkText}}</a>
-            {% endif %}            
-          </div>
-  
-        </div>
-
         {{ content }} 
       </main>
 
