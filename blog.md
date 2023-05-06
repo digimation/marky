@@ -12,7 +12,8 @@ description: Beautiful Patterns is an interdisciplinary effort that seeks high-i
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }},{{ post.date }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.content }}</p>
     </li>
   {% endfor %}
 </ul>
