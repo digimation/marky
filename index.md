@@ -17,6 +17,15 @@ Patrones Hermosos es un esfuerzo interdisciplinario que busca soluciones de alto
 
 La misión de Patrones Hermosos es desarrollar habilidades de pensamiento algorítmico en mujeres jóvenes, a través de un programa de alto nivel impartido por estudiantes mujeres del MIT y otras prestigiosas universidades, lo que les permite exponer su talento a nivel internacional.
 
+# Recent Blog Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 <!-- 
 Note: you can use this page as a template. Remember to keep pages at the root.
 -->
