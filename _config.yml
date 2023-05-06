@@ -1,4 +1,7 @@
 title: Beatiful Patterns
 description: Think deeply, code well
 baseurl: /marky
+plugins:
+  - jekyll-paginate
+
 paginate: 5
