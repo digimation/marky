@@ -2,18 +2,7 @@ title: Beatiful Patterns
 description: Think deeply, code well
 baseurl: /marky
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-paginate
-
-collections:
-  category:
-    output: true
-
-defaults:
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-
 paginate: 5
-paginate_path: "/blog/page:num/"
