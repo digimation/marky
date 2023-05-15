@@ -19,3 +19,20 @@ El Bootcamp Pensamiento Computacional de Patrones Hermosos, por ejemplo, es un p
 # Ediciones de Bootcamps
 
 ## Campamentos: Edición Tec de Monterrey
+
+| SEDE Autorizada                                             	| Ciudad                   	| Entidad Federativa      	| Fecha de programa 	| Informes con:                     	| eMail                         	|
+|-------------------------------------------------------------	|--------------------------	|-------------------------	|-------------------	|-----------------------------------	|-------------------------------	|
+| Instituto Tecnológico Autónomo de México (ITAM)             	| Álvaro Obregón           	| Ciudad de México (CDMX) 	|        05/06/2023 	| Ana Lidia Franzoni Velázquez      	| analidia@itam.mx              	|
+| Instituto Tecnológico de Sonora. Campus Náinari             	| Ciudad Obregón           	| Sonora                  	|        10/07/2023 	| Martha Eloisa Larrínaga Hernández 	| martha.larrinaga@itson.edu.mx 	|
+| Tecnológico de Monterrey. Campus Ciudad de México           	| Ciudad de México         	| Ciudad de México (CDMX) 	|        03/07/2023 	| Mónica Elizabeth Jimenez Vega     	| monijimenez@tec.mx            	|
+| Tecnológico de Monterrey. Campus Chihuahua                  	| Chihuahua                	| Chihuahua               	|        26/06/2023 	| Luisa A Márquez                   	| luisa.marquez@tec.mx          	|
+| Tecnológico de Monterrey. Campus Cuernavaca                 	| Cuernavaca               	| Morelos                 	|        10/07/2023 	| Iyali Maria Curiel Enríquez,      	| iyali.curiel@tec.mx           	|
+| Tecnológico de Monterrey. Campus Estado de México           	| López Mateos             	| Estado de México        	|        24/07/2023 	| Humberto Cárdenas Anaya           	| hcardens@tec.mx               	|
+| Tecnológico de Monterrey. Campus Guadalajara                	| Zapopan                  	| Jalisco                 	|        26/06/2023 	| Ana Raquel Sanromán               	| ana.sanroman@tec.mx           	|
+| Tecnológico de Monterrey. Campus Puebla                     	| Puebla                   	| Puebla                  	|        26/06/2023 	| Rosa Guadalupe Paredes Juárez     	| rgparedes@tec.mx              	|
+| Tecnológico de Monterrey. Campus San Luis Potosí (PrepaTec) 	| San Luis Potosí          	| San Luis Potosí         	|        26/06/2023 	| Brenda Cruz Zamora                	| brenda.cruz@tec.mx            	|
+| Universidad Tecmilenio. Campus Chihuahua                    	| Chihuahua                	| Chihuahua               	|        17/07/2023 	| Nancy Liliana Chaires Almanza     	| nancy.chaires@tecmilenio.mx   	|
+| Universidad Tecmilenio. Campus Guadalupe                    	| Guadalupe                	| Nuevo León              	|        26/06/2023 	| Bertha Quezada Duarte             	| b.quezada@tecmilenio.mx       	|
+| Universidad Tecmilenio. Campus Las Torres                   	| Monterrey                	| Nuevo León              	|        26/06/2023 	| Hugo Varela                       	| hugovarela@tecmilenio.mx      	|
+| Universidad Tecmilenio. Campus San Nicolás                  	| San Nicolás de los Garza 	| Nuevo León              	|        26/06/2023 	| Martha Priscilla Álvarez Casillas 	| priscilla.alv@tecmilenio.mx   	|
+| Universidad Tecmilenio. Campus Villahermosa                 	| Villahermosa             	| Tabasco                 	|        12/06/2023 	| Carlos Arturo Estrada Santiago    	| cestrada@tecmilenio.mx        	|
