@@ -5,6 +5,57 @@ image: assets/img/splash/bootcamp_large.jpg
 description: Los bootcamps de Patrones Hermosos son talleres presenciales que te brindarán las habilidades y herramientas necesarias para destacar en Ciencia, Tecnología, Ingeniería y Matemáticas (STEM). A través de un enfoque práctico e interactivo, nuestros instructores expertos te guiarán en el camino hacia el éxito en el mundo de la tecnología y la innovación.
 ---
 
+<table>
+<thead>
+	<tr>
+		<th>Header 1</th>
+		<th>Header 2</th>
+		<th>Header :</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>Column 1</td>
+		<td>Column 2</td>
+		<td>Column 3</td>
+	</tr>
+	<tr>
+		<td>Custom Table Content</td>
+		<td>Column 4</td>
+		<td>Column 5</td>
+	</tr>
+</tbody>
+</table>
+
+
+<details>
+  <summary> Instituto Tecnológico de Sonora. (ITSON) Campus Náinari   </summary>
+
+  Ciudad: Ciudad   Obregón \
+  Entidad Federativa: Ciudad de México (CDMX)\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Ana Lidia Franzoni Velázquez\
+  eMail: analidia@itam.mx\
+  [Registro Instructoras](https://forms.gle/APcudX9tRyBewv7a7)\
+  [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9)\
+
+</details>
+
+<details>
+  <summary> Instituto Tecnológico Autónomo de México (ITAM)  </summary>
+
+  Ciudad: Álvaro Obregón\
+  Entidad Federativa: Sonora\
+  País: México\
+  Fecha de inicio del programa: 10/07/2023 \
+  Informes con: Martha   Eloisa Larrínaga Hernández\
+  eMail: martha.larrinaga@itson.edu.mx\
+  [Registro Instructoras](https://forms.gle/EyvZhgM8RTQEdJbHA)\
+  [Registro Participantes](https://forms.gle/E3FR5QNQ5fX3PShN8)\
+
+</details>
+
 # Bienvenidos a Bootcamps!
 
 Entre las iniciativas que Patrones Hermosos promueve se encuentran los Bootcamps.
@@ -24,7 +75,7 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 
 |                                                    SEDE   Autorizada                                                   	|           Ciudad           	|    Entidad   Federativa   	|   País  	| Fecha de inicio   del programa 	|            Informes con:            	|              eMail             	|       Registro   Instructoras       	|       Registro   participantes      	|
 |:----------------------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:-------------------------:	|:-------:	|:------------------------------:	|:-----------------------------------:	|:------------------------------:	|:-----------------------------------:	|:-----------------------------------:	|
-| Instituto Tecnológico Autónomo de México (ITAM)                                                                        	| Álvaro   Obregón           	| Ciudad   de México (CDMX) 	| México  	| 26/06/2023                     	| Ana   Lidia Franzoni Velázquez      	| analidia@itam.mx               	| [Registro](https://forms.gle/APcudX9tRyBewv7a7) 	| https://forms.gle/GLHPk8PRy7YtodSL9 	|
+| Instituto Tecnológico Autónomo de México (ITAM)                                                                        	| Álvaro   Obregón           	| Ciudad   de México (CDMX) 	| México  	| 26/06/2023                     	| Ana   Lidia Franzoni Velázquez      	| analidia@itam.mx               	| https://forms.gle/APcudX9tRyBewv7a7 	| https://forms.gle/GLHPk8PRy7YtodSL9 	|
 | Instituto Tecnológico de Sonora. (ITSON) Campus Náinari                                                                	| Ciudad   Obregón           	| Sonora                    	| México  	| 10/07/2023                     	| Martha   Eloisa Larrínaga Hernández 	| martha.larrinaga@itson.edu.mx  	| https://forms.gle/EyvZhgM8RTQEdJbHA 	| https://forms.gle/E3FR5QNQ5fX3PShN8 	|
 | Tecnológico de Monterrey. Campus Aguascalientes                                                                        	| Aguascalientes             	| Aguascalientes            	| México  	| 19/06/2023                     	| María   Elvira Alvarado Hernández   	| m.elvirah@tec.mx               	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
 | Tecnológico de Monterrey. Campus Chihuahua                                                                             	| Chihuahua                  	| Chihuahua                 	| México  	| 26/06/2023                     	| Luisa   A Márquez                   	| luisa.marquez@tec.mx           	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
@@ -45,6 +96,6 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 | Universidad Tecmilenio. Campus Guadalupe                                                                               	| Guadalupe                  	| Nuevo   León              	| México  	| 24/07/2023                     	| Bertha   Quezada Duarte             	| b.quezada@tecmilenio.mx        	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
 | Universidad Tecmilenio. Campus Las Torres                                                                              	| Monterrey                  	| Nuevo   León              	| México  	| 17/07/2023                     	| Hugo   Varela                       	| hugovarela@tecmilenio.mx       	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
 | Universidad Tecmilenio. Campus San Nicolás                                                                             	| San   Nicolás de los Garza 	| Nuevo   León              	| México  	| 17/07/2023                     	| Martha   Priscilla Álvarez Casillas 	| priscilla.alv@tecmilenio.mx    	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Campus Cuatitlán                                                                             	  | Cuautitlán  	| Estado de México              	| México  	| 03/07/2023                     	          | Jonathan Melendez                     | mailto:jonmelend@tecmilenio.mx   | https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
+| Universidad Tecmilenio. Campus Cuatitlán                                                                             	  | Cuautitlán  	              | Estado de México            | México  	| 03/07/2023                      | Jonathan Melendez                     | mailto:jonmelend@tecmilenio.mx  | https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
 | Universidad Tecmilenio. Campus Villahermosa                                                                            	| Villahermosa               	| Tabasco                   	| México  	| 17/07/2023                     	| Carlos   Arturo Estrada Santiago    	| cestrada@tecmilenio.mx         	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
 | Universidad Tecmilenio. Edición Virtual                                                                                	| Monterrey                  	| Nuevo   León              	| México  	| 24/07/2023                     	| Lina   Patricia Garza Gómez         	| lina.garza@tecmilenio.mx       	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
