@@ -5,57 +5,6 @@ image: assets/img/splash/bootcamp_large.jpg
 description: Los bootcamps de Patrones Hermosos son talleres presenciales que te brindarán las habilidades y herramientas necesarias para destacar en Ciencia, Tecnología, Ingeniería y Matemáticas (STEM). A través de un enfoque práctico e interactivo, nuestros instructores expertos te guiarán en el camino hacia el éxito en el mundo de la tecnología y la innovación.
 ---
 
-<table>
-<thead>
-	<tr>
-		<th>Header 1</th>
-		<th>Header 2</th>
-		<th>Header :</th>
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>Column 1</td>
-		<td>Column 2</td>
-		<td>Column 3</td>
-	</tr>
-	<tr>
-		<td>Custom Table Content</td>
-		<td>Column 4</td>
-		<td>Column 5</td>
-	</tr>
-</tbody>
-</table>
-
-
-<details>
-  <summary> Instituto Tecnológico de Sonora. (ITSON) Campus Náinari   </summary>
-
-  Ciudad: Ciudad   Obregón \
-  Entidad Federativa: Ciudad de México (CDMX)\
-  País: México\
-  Fecha de inicio del programa: 26/06/2023\
-  Informes con: Ana Lidia Franzoni Velázquez\
-  eMail: analidia@itam.mx\
-  [Registro Instructoras](https://forms.gle/APcudX9tRyBewv7a7)\
-  [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9)\
-
-</details>
-
-<details>
-  <summary> Instituto Tecnológico Autónomo de México (ITAM)  </summary>
-
-  Ciudad: Álvaro Obregón\
-  Entidad Federativa: Sonora\
-  País: México\
-  Fecha de inicio del programa: 10/07/2023 \
-  Informes con: Martha   Eloisa Larrínaga Hernández\
-  eMail: martha.larrinaga@itson.edu.mx\
-  [Registro Instructoras](https://forms.gle/EyvZhgM8RTQEdJbHA)\
-  [Registro Participantes](https://forms.gle/E3FR5QNQ5fX3PShN8)\
-
-</details>
-
 # Bienvenidos a Bootcamps!
 
 Entre las iniciativas que Patrones Hermosos promueve se encuentran los Bootcamps.
@@ -73,29 +22,315 @@ El Bootcamp Pensamiento Computacional de Patrones Hermosos, por ejemplo, es un p
 Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como instructora o como participante al bootcamp de este verano 2023.  ¡Te esperamos!
 
 
-|                                                    SEDE   Autorizada                                                   	|           Ciudad           	|    Entidad   Federativa   	|   País  	| Fecha de inicio   del programa 	|            Informes con:            	|              eMail             	|       Registro   Instructoras       	|       Registro   participantes      	|
-|:----------------------------------------------------------------------------------------------------------------------:	|:--------------------------:	|:-------------------------:	|:-------:	|:------------------------------:	|:-----------------------------------:	|:------------------------------:	|:-----------------------------------:	|:-----------------------------------:	|
-| Instituto Tecnológico Autónomo de México (ITAM)                                                                        	| Álvaro   Obregón           	| Ciudad   de México (CDMX) 	| México  	| 26/06/2023                     	| Ana   Lidia Franzoni Velázquez      	| analidia@itam.mx               	| https://forms.gle/APcudX9tRyBewv7a7 	| https://forms.gle/GLHPk8PRy7YtodSL9 	|
-| Instituto Tecnológico de Sonora. (ITSON) Campus Náinari                                                                	| Ciudad   Obregón           	| Sonora                    	| México  	| 10/07/2023                     	| Martha   Eloisa Larrínaga Hernández 	| martha.larrinaga@itson.edu.mx  	| https://forms.gle/EyvZhgM8RTQEdJbHA 	| https://forms.gle/E3FR5QNQ5fX3PShN8 	|
-| Tecnológico de Monterrey. Campus Aguascalientes                                                                        	| Aguascalientes             	| Aguascalientes            	| México  	| 19/06/2023                     	| María   Elvira Alvarado Hernández   	| m.elvirah@tec.mx               	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Chihuahua                                                                             	| Chihuahua                  	| Chihuahua                 	| México  	| 26/06/2023                     	| Luisa   A Márquez                   	| luisa.marquez@tec.mx           	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Ciudad de México                                                                      	| Ciudad   de México         	| Ciudad   de México (CDMX) 	| México  	| 03/07/2023                     	| Mónica   Elizabeth Jimenez Vega     	| monijimenez@tec.mx             	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Cuernavaca                                                                            	| Cuernavaca                 	| Morelos                   	| México  	| 10/07/2023                     	| Iyali   Maria Curiel Enríquez       	| iyali.curiel@tec.mx            	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Estado de México                                                                      	| López   Mateos             	| Estado   de México        	| México  	| 24/07/2023                     	| Humberto   Cárdenas Anaya           	| hcardens@tec.mx                	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Guadalajara                                                                           	| Zapopan                    	| Jalisco                   	| México  	| 26/06/2023                     	| Ana   Raquel Sanromán               	| ana.sanroman@tec.mx            	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Laguna                                                                                	| Torreón                    	| Coahuila   de Zaragoza    	| México  	| 26/06/2023                     	| Ana   Mónica Turcios Esquivel       	| monica.turcios@tec.mx          	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Monterrey                                                                             	| Monterrey                  	| Nuevo   León              	| México  	| 10/07/2023                     	| María   Guadaluoe Roque             	| roque@tec.mx                   	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Morelia                                                                               	| Morelia                    	| Michoacán   de Ocampo     	| México  	| 24/07/2023                     	| Sandra   Eugenia García Hernández   	| sandraeu@tec.mx                	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Puebla                                                                                	| Puebla                     	| Puebla                    	| México  	| 26/06/2023                     	| Rosa   Guadalupe Paredes Juárez     	| rgparedes@tec.mx               	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Querétaro                                                                             	| Querétaro                  	| Querétaro                 	| México  	| 26/06/2023                     	| María   Lule Salinas                	| mlule@tec.mx                   	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus San Luis Potosí (PrepaTec)                                                            	| San   Luis Potosí          	| San   Luis Potosí         	| México  	| 26/06/2023                     	| Brenda   Cruz Zamora                	| brenda.cruz@tec.mx             	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Campus Toluca                                                                                	| Toluca                     	| Estado   de México        	| México  	| 17/07/2023                     	| Karla   Berenice Coyote Aguirre     	| karlacoyote@tec.mx             	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Tecnológico de Monterrey. Edición Virtual                                                                              	| Monterrey                  	| Nuevo   León              	| México  	| 24/07/2023                     	| María   Yolanda Burgos López        	| yolanda.burgos@tec.mx          	| https://forms.gle/w7t46MvbVc6UFbkn7 	| https://forms.gle/aAE3CVCWCjj3hPQD6 	|
-| Universidad Católica de Cuenca. Unidad Académica de Informática,   Ciencias de la Computación e Innovación Tecnológica 	| Cuenca                     	|                           	| Ecuador 	| 26/06/2023                     	| Nathalia   Peralta Vasconez         	| nathalia.peralta@ucacue.edu.ec 	| https://forms.gle/GPDUbisxLKsCJfAS7 	| https://forms.gle/Y7MhaNkjKg6ktSdU7 	|
-| Universidad Tecmilenio. Campus Chihuahua                                                                               	| Chihuahua                  	| Chihuahua                 	| México  	| 17/07/2023                     	| Nancy   Liliana Chaires Almanza     	| nancy.chaires@tecmilenio.mx    	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Campus Guadalupe                                                                               	| Guadalupe                  	| Nuevo   León              	| México  	| 24/07/2023                     	| Bertha   Quezada Duarte             	| b.quezada@tecmilenio.mx        	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Campus Las Torres                                                                              	| Monterrey                  	| Nuevo   León              	| México  	| 17/07/2023                     	| Hugo   Varela                       	| hugovarela@tecmilenio.mx       	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Campus San Nicolás                                                                             	| San   Nicolás de los Garza 	| Nuevo   León              	| México  	| 17/07/2023                     	| Martha   Priscilla Álvarez Casillas 	| priscilla.alv@tecmilenio.mx    	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Campus Cuatitlán                                                                             	  | Cuautitlán  	              | Estado de México            | México  	| 03/07/2023                      | Jonathan Melendez                     | mailto:jonmelend@tecmilenio.mx  | https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Campus Villahermosa                                                                            	| Villahermosa               	| Tabasco                   	| México  	| 17/07/2023                     	| Carlos   Arturo Estrada Santiago    	| cestrada@tecmilenio.mx         	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
-| Universidad Tecmilenio. Edición Virtual                                                                                	| Monterrey                  	| Nuevo   León              	| México  	| 24/07/2023                     	| Lina   Patricia Garza Gómez         	| lina.garza@tecmilenio.mx       	| https://forms.gle/MraMFxQR9fo5czjt8 	| https://forms.gle/YDqN6Nn9qBvAihnB7 	|
+#### SEDE Autorizada
+<details>
+  <summary> Instituto Tecnológico Autónomo de México (ITAM) </summary>
+
+  Ciudad: Álvaro Obregón\
+  Entidad Federativa: Ciudad de México (CDMX)\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Ana Lidia Franzoni Velázquez\
+  eMail: analidia@itam.mx\
+  [Registro Instructoras](https://forms.gle/APcudX9tRyBewv7a7)\
+  [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9)
+
+</details>
+<details>
+  <summary> Instituto Tecnológico de Sonora. (ITSON) Campus Náinari  </summary>
+
+  Ciudad: Ciudad Obregón\
+  Entidad Federativa: Sonora\
+  País: México\
+  Fecha de inicio del programa: 10/07/2023\
+  Informes con: Martha Eloisa Larrínaga Hernández\
+  eMail: martha.larrinaga@itson.edu.mx\
+  [Registro Instructoras](https://forms.gle/EyvZhgM8RTQEdJbHA)\
+  [Registro Participantes](https://forms.gle/E3FR5QNQ5fX3PShN8)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Aguascalientes  </summary>
+
+  Ciudad: Aguascalientes\
+  Entidad Federativa: Aguascalientes\
+  País: México\
+  Fecha de inicio del programa: 19/06/2023\
+  Informes con: María Elvira Alvarado Hernández\
+  eMail: m.elvirah@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Chihuahua </summary>
+
+  Ciudad: Chihuahua\
+  Entidad Federativa: Chihuahua\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Luisa A Márquez\
+  eMail: luisa.marquez@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Ciudad de México </summary>
+
+  Ciudad: Ciudad de México\
+  Entidad Federativa: Ciudad de México (CDMX)\
+  País: México\
+  Fecha de inicio del programa: 03/07/2023\
+  Informes con: Mónica Elizabeth Jimenez Vega\
+  eMail: monijimenez@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Cuernavaca </summary>
+
+  Ciudad: Cuernavaca\
+  Entidad Federativa: Morelos\
+  País: México\
+  Fecha de inicio del programa: 10/07/2023\
+  Informes con: Iyali Maria Curiel Enríquez\
+  eMail: iyali.curiel@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Estado de México </summary>
+
+  Ciudad: López Mateos\
+  Entidad Federativa: Estado de México\
+  País: México\
+  Fecha de inicio del programa: 24/07/2023\
+  Informes con: Humberto   Cárdenas Anaya\
+  eMail: hcardens@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Guadalajara </summary>
+
+  Ciudad: Zapopan\
+  Entidad Federativa: Jalisco\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Ana Raquel Sanromán\
+  eMail: ana.sanroman@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Laguna </summary>
+
+  Ciudad: Torreón\
+  Entidad Federativa: Coahuila de Zaragoza\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Ana Mónica Turcios Esquivel\
+  eMail: monica.turcios@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Monterrey </summary>
+
+  Ciudad: Monterrey\
+  Entidad Federativa: Nuevo León\
+  País: México\
+  Fecha de inicio del programa: 10/07/2023\
+  Informes con: María Guadaluoe Roque\
+  eMail: roque@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Morelia </summary>
+
+  Ciudad: Morelia\
+  Entidad Federativa: Michoacán de Ocampo\
+  País: México\
+  Fecha de inicio del programa: 24/07/2023\
+  Informes con: Sandra Eugenia García Hernández\
+  eMail: sandraeu@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Puebla </summary>
+
+  Ciudad: Puebla\
+  Entidad Federativa: Puebla\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Rosa Guadalupe Paredes Juárez\
+  eMail: rgparedes@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Querétaro </summary>
+
+  Ciudad: Querétaro\
+  Entidad Federativa: Querétaro\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: María Lule Salinas\
+  eMail: mlule@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus San Luis Potosí (PrepaTec) </summary>
+
+  Ciudad: San Luis Potosí\
+  Entidad Federativa: San Luis Potosí\
+  País: México\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Brenda Cruz Zamora\
+  eMail: brenda.cruz@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Campus Toluca </summary>
+
+  Ciudad: Toluca\
+  Entidad Federativa: Estado de México\
+  País: México\
+  Fecha de inicio del programa: 17/07/2023\
+  Informes con: Karla Berenice Coyote Aguirre\
+  eMail: karlacoyote@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Tecnológico de Monterrey. Edición Virtual </summary>
+
+  Ciudad: Monterrey\
+  Entidad Federativa: Nuevo León\
+  País: México\
+  Fecha de inicio del programa: 24/07/2023\
+  Informes con: María Yolanda Burgos López\
+  eMail: yolanda.burgos@tec.mx\
+  [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7)\
+  [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6)
+
+</details>
+<details>
+  <summary> Universidad Católica de Cuenca. Unidad Académica de Informática,   Ciencias de la Computación e Innovación Tecnológica </summary>
+
+  Ciudad: Cuenca\
+  País: Ecuador\
+  Fecha de inicio del programa: 26/06/2023\
+  Informes con: Nathalia Peralta Vasconez\
+  eMail: nathalia.peralta@ucacue.edu.ec\
+  [Registro Instructoras](https://forms.gle/GPDUbisxLKsCJfAS7)\
+  [Registro Participantes](https://forms.gle/Y7MhaNkjKg6ktSdU7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Campus Chihuahua </summary>
+
+  Ciudad: Chihuahua\
+  Entidad Federativa: Chihuahua\
+  País: México\
+  Fecha de inicio del programa: 17/07/2023\
+  Informes con: Nancy Liliana Chaires Almanza\
+  eMail: nancy.chaires@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Campus Guadalupe </summary>
+
+  Ciudad: Guadalupe\
+  Entidad Federativa: Nuevo León\
+  País: México\
+  Fecha de inicio del programa: 24/07/2023\
+  Informes con: Bertha Quezada Duarte\
+  eMail: b.quezada@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Campus Las Torres </summary>
+
+  Ciudad: Monterrey\
+  Entidad Federativa: Nuevo León\
+  País: México\
+  Fecha de inicio del programa: 17/07/2023\
+  Informes con: Hugo Varela\
+  eMail: hugovarela@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Campus San Nicolás </summary>
+
+  Ciudad: San Nicolás de los Garza\
+  Entidad Federativa: Nuevo León\
+  País: México\
+  Fecha de inicio del programa: 17/07/2023\
+  Informes con: Martha   Priscilla Álvarez Casilla\
+  eMail: priscilla.alv@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Campus Cuatitlán </summary>
+
+  Ciudad: Cuautitlán\
+  Entidad Federativa: Estado de México\
+  País: México\
+  Fecha de inicio del programa: 03/07/2023\
+  Informes con: Jonathan Melendez\
+  eMail: mailto:jonmelend@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Campus Villahermosa </summary>
+
+  Ciudad: Villahermosa\
+  Entidad Federativa: Tabasco\
+  País: México\
+  Fecha de inicio del programa: 17/07/2023\
+  Informes con: Carlos Arturo Estrada Santiago\
+  eMail: cestrada@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
+<details>
+  <summary> Universidad Tecmilenio. Edición Virtual </summary>
+
+  Ciudad: Monterrey\
+  Entidad Federativa: Nuevo León\
+  País: México\
+  Fecha de inicio del programa: 24/07/2023\
+  Informes con: Lina Patricia Garza Gómez\
+  eMail: lina.garza@tecmilenio.mx\
+  [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8)\
+  [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7)
+
+</details>
