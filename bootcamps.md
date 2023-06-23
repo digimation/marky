@@ -26,14 +26,16 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 <details>
   <summary> Instituto Tecnológico Autónomo de México (ITAM) </summary>
 
-  Ciudad: Álvaro Obregón\
-  Entidad Federativa: Ciudad de México (CDMX)\
-  País: México\
-  Fecha de inicio del programa: 26/06/2023\
-  Informes con: Ana Lidia Franzoni Velázquez\
-  eMail: analidia@itam.mx\
-  [Registro Instructoras](https://forms.gle/APcudX9tRyBewv7a7)\
-  [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9)
+  |  |  |
+  |:----- | :-----: |
+  | Ciudad | Álvaro Obregón |
+  | Entidad Federativa | Ciudad de México (CDMX) |
+  | País | México |
+  | Fecha de inicio del programa | 26/06/2023 |
+  | Informes con | Ana Lidia Franzoni Velázquez |
+  | eMail | analidia@itam.mx |
+  | [Registro Instructoras](https://forms.gle/APcudX9tRyBewv7a7) |
+  | [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9) |
 
 </details>
 <details>
