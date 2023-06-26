@@ -24,9 +24,10 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 
 #### SEDE Autorizada
 <details>
+  
   <summary> Instituto Tecnológico Autónomo de México (ITAM) </summary>
 
-  |  |  |
+  | Datos | Datos |
   |:----- | :-----: |
   | Ciudad | Álvaro Obregón |
   | Entidad Federativa | Ciudad de México (CDMX) |
@@ -38,22 +39,26 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   | [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9) |
 
 </details>
+
 <details>
+  
   <summary> Instituto Tecnológico de Sonora. (ITSON) Campus Náinari  </summary>
 
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | Ciudad Obregón |
-  | Entidad Federativa | Sonora |
-  | País | México |
-  | Fecha de inicio del programa | 10/07/2023 |
-  | Informes con | Martha Eloisa Larrínaga Hernández |
-  | eMail | martha.larrinaga@itson.edu.mx |
-  | [Registro Instructoras](https://forms.gle/EyvZhgM8RTQEdJbHA) |
-  | [Registro Participantes](https://forms.gle/E3FR5QNQ5fX3PShN8) |
-
+  <table>
+    <tr> <th>Data</th>                         <th>Datos</th> </tr>
+    <tr> <td>Ciudad</td>                       <td>Ciudad Obregón</td> </tr>
+    <tr> <td>Entidad Federativa</td>           <td>Sonora</td> </tr>
+    <tr> <td>País</td>                         <td>México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td>10/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td>Martha Eloisa Larrínaga Hernández</td> </tr>
+    <tr> <td>eMail</td>                        <td>martha.larrinaga@itson.edu.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/EyvZhgM8RTQEdJbHA">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/E3FR5QNQ5fX3PShN8">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 </details>
+
 <details>
+  
   <summary> Tecnológico de Monterrey. Campus Aguascalientes  </summary>
 
   |  |  |
@@ -68,7 +73,9 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
 
 </details>
+
 <details>
+  
   <summary> Tecnológico de Monterrey. Campus Chihuahua </summary>
 
   |  |  |
@@ -83,7 +90,9 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
 
 </details>
+
 <details>
+  
   <summary> Tecnológico de Monterrey. Campus Ciudad de México </summary>
 
   |  |  |
@@ -98,7 +107,9 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
 
 </details>
+
 <details>
+  
   <summary> Tecnológico de Monterrey. Campus Cuernavaca </summary>
 
   |  |  |
