@@ -27,16 +27,16 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   
   <summary> Instituto Tecnológico Autónomo de México (ITAM) </summary>
 
-  | Datos | Datos |
-  |:----- | :-----: |
-  | Ciudad | Álvaro Obregón |
-  | Entidad Federativa | Ciudad de México (CDMX) |
-  | País | México |
-  | Fecha de inicio del programa | 26/06/2023 |
-  | Informes con | Ana Lidia Franzoni Velázquez |
-  | eMail | analidia@itam.mx |
-  | [Registro Instructoras](https://forms.gle/APcudX9tRyBewv7a7) |
-  | [Registro Participantes](https://forms.gle/GLHPk8PRy7YtodSL9) |
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Álvaro Obregón</td> </tr>
+    <tr> <td>Entidad Federativa</td>           <td style="text-align: center"> Ciudad de México (CDMX)</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Ana Lidia Franzoni Velázquez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">analidia@itam.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/APcudX9tRyBewv7a7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/GLHPk8PRy7YtodSL9">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 
@@ -45,32 +45,32 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   <summary> Instituto Tecnológico de Sonora. (ITSON) Campus Náinari  </summary>
 
   <table>
-    <tr> <th>Data</th>                         <th>Datos</th> </tr>
-    <tr> <td>Ciudad</td>                       <td>Ciudad Obregón</td> </tr>
-    <tr> <td>Entidad Federativa</td>           <td>Sonora</td> </tr>
-    <tr> <td>País</td>                         <td>México</td> </tr>
-    <tr> <td>Fecha de inicio del programa</td> <td>10/07/2023</td> </tr>
-    <tr> <td>Informes con</td>                 <td>Martha Eloisa Larrínaga Hernández</td> </tr>
-    <tr> <td>eMail</td>                        <td>martha.larrinaga@itson.edu.mx</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Ciudad Obregón</td> </tr>
+    <tr> <td>Entidad Federativa</td>           <td style="text-align: center">Sonora</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">10/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Martha Eloisa Larrínaga Hernández</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">martha.larrinaga@itson.edu.mx</td> </tr>
     <tr> <td> <a href="https://forms.gle/EyvZhgM8RTQEdJbHA">Registro Instructoras</a> </td> <td></td> </tr>
     <tr> <td> <a href="https://forms.gle/E3FR5QNQ5fX3PShN8">Registro Participantes</a> </td> <td></td> </tr>
   </table>
+  
 </details>
 
 <details>
   
   <summary> Tecnológico de Monterrey. Campus Aguascalientes  </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | Aguascalientes |
-  | Entidad Federativa | Aguascalientes |
-  | País | México |
-  | Fecha de inicio del programa | 19/06/2023 |
-  | Informes con | María Elvira Alvarado Hernández |
-  | eMail | m.elvirah@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Aguascalientes</td> </tr>
+    <tr> <td>Entidad Federativa</td>                       <td style="text-align: center"> Aguascalientes</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">19/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">María Elvira Alvarado Hernández</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">m.elvirah@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 
@@ -78,318 +78,318 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   
   <summary> Tecnológico de Monterrey. Campus Chihuahua </summary>
 
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | Chihuahua |
-  | Entidad Federativa | Chihuahua |
-  | País | México |
-  | Fecha de inicio del programa | 26/06/2023 |
-  | Informes con | Luisa A Márquez |
-  | eMail | luisa.marquez@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Chihuahua</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Chihuahua</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Luisa A Márquez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">luisa.marquez@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 
 <details>
   
   <summary> Tecnológico de Monterrey. Campus Ciudad de México </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | Ciudad de México |
-  | Entidad Federativa | Ciudad de México (CDMX) |
-  | País | México |
-  | Fecha de inicio del programa | 03/07/2023 |
-  | Informes con | Mónica Elizabeth Jimenez Vega |
-  | eMail | monijimenez@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Ciudad de México</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Ciudad de México (CDMX)|
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">03/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Mónica Elizabeth Jimenez Vega</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">monijimenez@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 
 <details>
   
   <summary> Tecnológico de Monterrey. Campus Cuernavaca </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | Cuernavaca |
-  | Entidad Federativa | Morelos |
-  | País | México |
-  | Fecha de inicio del programa | 10/07/2023 |
-  | Informes con | Iyali Maria Curiel Enríquez |
-  | eMail | iyali.curiel@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Cuernavaca</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Morelos</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">10/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Iyali Maria Curiel Enríquez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">iyali.curiel@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Estado de México </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | López Mateos |
-  | Entidad Federativa | Estado de México |
-  | País | México |
-  | Fecha de inicio del programa | 24/07/2023 |
-  | Informes con | Humberto Cárdenas Anaya |
-  | eMail | hcardens@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">López Mateos</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Estado de México</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">24/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Humberto Cárdenas Anaya</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">hcardens@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Guadalajara </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad | Zapopan |
-  | Entidad Federativa | Jalisco |
-  | País | México |
-  | Fecha de inicio del programa | 26/06/2023 |
-  | Informes con | Ana Raquel Sanromán |
-  | eMail | ana.sanroman@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Zapopan</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Jalisco</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Ana Raquel Sanromán</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center">ana.sanroman@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Laguna </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Torreón |
-  | Entidad Federativa | Coahuila de Zaragoza |
-  País: México |
-  Fecha de inicio del programa: 26/06/2023 |
-  Informes con: Ana Mónica Turcios Esquivel |
-  eMail: monica.turcios@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Torreón</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Coahuila de Zaragoza</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Ana Mónica Turcios Esquivel</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> monica.turcios@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Monterrey </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Monterrey |
-  | Entidad Federativa | Nuevo León |
-  País: México |
-  Fecha de inicio del programa: 10/07/2023 |
-  Informes con: María Guadaluoe Roque |
-  eMail: roque@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Monterrey</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Nuevo León</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">10/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">María Guadalupe Roque</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> roque@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Morelia </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Morelia |
-  | Entidad Federativa | Michoacán de Ocampo |
-  País: México |
-  Fecha de inicio del programa: 24/07/2023 |
-  Informes con: Sandra Eugenia García Hernández |
-  eMail: sandraeu@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Morelia</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Michoacán de Ocampo</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">24/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Sandra Eugenia García Hernández</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> sandraeu@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Puebla </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Puebla |
-  | Entidad Federativa | Puebla |
-  País: México |
-  Fecha de inicio del programa: 26/06/2023 |
-  Informes con: Rosa Guadalupe Paredes Juárez |
-  eMail: rgparedes@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Puebla</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Puebla</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Rosa Guadalupe Paredes Juárez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> rgparedes@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Querétaro </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Querétaro |
-  | Entidad Federativa | Querétaro |
-  País: México |
-  Fecha de inicio del programa: 26/06/2023 |
-  Informes con: María Lule Salinas |
-  eMail: mlule@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Querétaro</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Querétaro</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">María Lule Salinas</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> mlule@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus San Luis Potosí (PrepaTec) </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: San Luis Potosí |
-  | Entidad Federativa | San Luis Potosí |
-  País: México |
-  Fecha de inicio del programa: 26/06/2023 |
-  Informes con: Brenda Cruz Zamora |
-  eMail: brenda.cruz@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">San Luis Potosí</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> San Luis Potosí</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Brenda Cruz Zamora</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> brenda.cruz@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Campus Toluca </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Toluca |
-  | Entidad Federativa | Estado de México |
-  País: México |
-  Fecha de inicio del programa: 17/07/2023 |
-  Informes con: Karla Berenice Coyote Aguirre |
-  eMail: karlacoyote@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Toluca</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Estado de México</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">17/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Karla Berenice Coyote Aguirre</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> karlacoyote@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Tecnológico de Monterrey. Edición Virtual </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Monterrey |
-  | Entidad Federativa | Nuevo León |
-  País: México |
-  Fecha de inicio del programa: 24/07/2023 |
-  Informes con: María Yolanda Burgos López |
-  eMail: yolanda.burgos@tec.mx |
-  | [Registro Instructoras](https://forms.gle/w7t46MvbVc6UFbkn7) |
-  | [Registro Participantes](https://forms.gle/aAE3CVCWCjj3hPQD6) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Monterrey</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Nuevo León</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">24/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">María Yolanda Burgos López</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> yolanda.burgos@tec.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/w7t46MvbVc6UFbkn7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/aAE3CVCWCjj3hPQD6">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Católica de Cuenca. Unidad Académica de Informática,   Ciencias de la Computación e Innovación Tecnológica </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Cuenca |
-  País: Ecuador |
-  Fecha de inicio del programa: 26/06/2023 |
-  Informes con: Nathalia Peralta Vasconez |
-  eMail: nathalia.peralta@ucacue.edu.ec |
-  | [Registro Instructoras](https://forms.gle/GPDUbisxLKsCJfAS7) |
-  | [Registro Participantes](https://forms.gle/Y7MhaNkjKg6ktSdU7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Cuenca</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">Ecuador</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">26/06/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Nathalia Peralta Vasconez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> nathalia.peralta@ucacue.edu.ec</td> </tr>
+    <tr> <td> <a href="https://forms.gle/GPDUbisxLKsCJfAS7">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/Y7MhaNkjKg6ktSdU7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Campus Chihuahua </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Chihuahua |
-  | Entidad Federativa | Chihuahua |
-  País: México |
-  Fecha de inicio del programa: 17/07/2023 |
-  Informes con: Nancy Liliana Chaires Almanza |
-  eMail: nancy.chaires@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Chihuahua</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Chihuahua</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">17/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Nancy Liliana Chaires Almanza</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> nancy.chaires@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Campus Guadalupe </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Guadalupe |
-  | Entidad Federativa | Nuevo León |
-  País: México |
-  Fecha de inicio del programa: 24/07/2023 |
-  Informes con: Bertha Quezada Duarte |
-  eMail: b.quezada@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Guadalupe</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Nuevo León</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">24/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Bertha Quezada Duarte</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> b.quezada@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Campus Las Torres </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Monterrey |
-  | Entidad Federativa | Nuevo León |
-  País: México |
-  Fecha de inicio del programa: 17/07/2023 |
-  Informes con: Hugo Varela |
-  eMail: hugovarela@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Monterrey</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Nuevo León</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">17/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Hugo Varela</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> hugovarela@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Campus San Nicolás </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: San Nicolás de los Garza |
-  | Entidad Federativa | Nuevo León |
-  País: México |
-  Fecha de inicio del programa: 17/07/2023 |
-  Informes con: Martha   Priscilla Álvarez Casilla |
-  eMail: priscilla.alv@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">San Nicolás de los Garza</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Nuevo León</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">17/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Martha   Priscilla Álvarez Casilla</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> priscilla.alv@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Campus Cuatitlán </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Cuautitlán |
-  | Entidad Federativa | Estado de México |
-  País: México |
-  Fecha de inicio del programa: 03/07/2023 |
-  Informes con: Jonathan Melendez |
-  eMail: mailto:jonmelend@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Cuautitlán</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Estado de México</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">03/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Jonathan Melendez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> mailto:jonmelend@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Campus Villahermosa </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Villahermosa |
-  | Entidad Federativa | Tabasco |
-  País: México |
-  Fecha de inicio del programa: 17/07/2023 |
-  Informes con: Carlos Arturo Estrada Santiago |
-  eMail: cestrada@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Villahermosa</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Tabasco</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">17/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Carlos Arturo Estrada Santiago</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> cestrada@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
 <details>
   <summary> Universidad Tecmilenio. Edición Virtual </summary>
-
-  |  |  |
-  |:----- | :-----: |
-  | Ciudad: Monterrey |
-  | Entidad Federativa | Nuevo León |
-  País: México |
-  Fecha de inicio del programa: 24/07/2023 |
-  Informes con: Lina Patricia Garza Gómez |
-  eMail: lina.garza@tecmilenio.mx |
-  | [Registro Instructoras](https://forms.gle/MraMFxQR9fo5czjt8) |
-  | [Registro Participantes](https://forms.gle/YDqN6Nn9qBvAihnB7) |
+  
+  <table>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center">Monterrey</td> </tr>
+    <tr> <td>Ciudad</td>                       <td style="text-align: center"> Nuevo León</td> </tr>
+    <tr> <td>País</td>                         <td style="text-align: center">México</td> </tr>
+    <tr> <td>Fecha de inicio del programa</td> <td style="text-align: center">24/07/2023</td> </tr>
+    <tr> <td>Informes con</td>                 <td style="text-align: center">Lina Patricia Garza Gómez</td> </tr>
+    <tr> <td>eMail</td>                        <td style="text-align: center"> lina.garza@tecmilenio.mx</td> </tr>
+    <tr> <td> <a href="https://forms.gle/MraMFxQR9fo5czjt8">Registro Instructoras</a> </td> <td></td> </tr>
+    <tr> <td> <a href="https://forms.gle/YDqN6Nn9qBvAihnB7">Registro Participantes</a> </td> <td></td> </tr>
+  </table>
 
 </details>
