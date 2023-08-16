@@ -402,6 +402,8 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 
 https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5
 
+![sample video]([https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5]){width=90}
+
 <img title="Aguascalientes" alt="Aguascalientes" src="assets/img/results/QRO_grupo.JPG" width="892" height="auto">
 
 <p float="left">
