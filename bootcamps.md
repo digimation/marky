@@ -402,8 +402,8 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 
 https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5
 
+<img title="Aguascalientes" alt="Aguascalientes" src="assets/img/results/QRO_grupo.JPG" width="892" height="auto">
 
-<img title="Aguascalientes" alt="Aguascalientes" src="assets/img/results/AGS9.JPG" width="892" height="auto">
 <p float="left">
   <img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA6.jpg" height="277" width=auto">
   <img title="Morelia" alt="Morelia" src="assets/img/results/MRL10.jpeg" height="278" width=auto">
@@ -414,4 +414,4 @@ https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62
   <img title="Morelia" alt="Morelia" src="assets/img/results/CCM3.JPG" height="238" width=auto">
 </p>
 
-<img title="Queretaro" alt="Queretaro" src="assets/img/results/QRO_grupo.JPG" width="890" height="auto">
+<img title="Queretaro" alt="Queretaro" src="assets/img/results/AGS9.JPG" width="890" height="auto">
