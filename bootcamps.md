@@ -21,9 +21,10 @@ El Bootcamp Pensamiento Computacional de Patrones Hermosos, por ejemplo, es un p
 ## Campamentos: Edición Tec de Monterrey - VERANO 2023
 Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como instructora o como participante al bootcamp de este verano 2023.  ¡Te esperamos!
 
+### SEDE Autorizada
 
 <details> 
-<summary> SEDE Autorizada </summary> 
+<summary> Registro </summary> 
   
 <details>
   
@@ -400,20 +401,42 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
 
 ### Resultados
 
-https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5
+<video width="890" height="auto" controls>
+  <source src="assets/img/results/CEM_Patrones_Hermosos_Verano_2023.mp4" type="video/mp4">
+</video>
 
-![sample video]([https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5]){width=90}
+#### Instituto Tecnológico Autónomo de México (ITAM)
+#### Instituto Tecnológico de Sonora. (ITSON) Campus Náinari
+#### Tecnológico de Monterrey. Campus Aguascalientes
+<img title="Guadalajara" alt="Guadalajara" src="assets/img/results/AGS9.JPG" width="890" height="auto">
 
-<img title="Aguascalientes" alt="Aguascalientes" src="assets/img/results/QRO_grupo.JPG" width="892" height="auto">
+#### Tecnológico de Monterrey. Campus Chihuahua
+#### Tecnológico de Monterrey. Campus Ciudad de México
+<img title="CDMX" alt="CDMX" src="assets/img/results/CCM3.JPG" width="892" height="auto">
 
-<p float="left">
-  <img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA6.jpg" height="277" width=auto">
-  <img title="Morelia" alt="Morelia" src="assets/img/results/MRL10.jpeg" height="278" width=auto">
-</p>
+#### Tecnológico de Monterrey. Campus Cuernavaca
+#### Tecnológico de Monterrey. Campus Estado de México
+#### Tecnológico de Monterrey. Campus Guadalajara
+<img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA6.jpg" width="892" height="auto">
+<img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA10.jpg" width="892" height="auto">
 
-<p float="left">
-  <img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA10.jpg" height="238" width=auto">
-  <img title="Morelia" alt="Morelia" src="assets/img/results/CCM3.JPG" height="238" width=auto">
-</p>
+#### Tecnológico de Monterrey. Campus Laguna
+#### Tecnológico de Monterrey. Campus Monterrey
+#### Tecnológico de Monterrey. Campus Morelia
+<img title="Morelia" alt="Morelia" src="assets/img/results/MRL10.jpeg" width="892" height="auto">
 
-<img title="Queretaro" alt="Queretaro" src="assets/img/results/AGS9.JPG" width="890" height="auto">
+#### Tecnológico de Monterrey. Campus Puebla
+#### Tecnológico de Monterrey. Campus Querétaro
+<img title="Queretaro" alt="Queretaro" src="assets/img/results/QRO_grupo.JPG" width="892" height="auto">
+
+#### Tecnológico de Monterrey. Campus San Luis Potosí (PrepaTec)
+#### Tecnológico de Monterrey. Campus Toluca
+#### Tecnológico de Monterrey. Edición Virtual
+#### Universidad Católica de Cuenca. Unidad Académica de Informática, Ciencias de la Computación e Innovación Tecnológica
+#### Universidad Tecmilenio. Campus Chihuahua
+#### Universidad Tecmilenio. Campus Guadalupe
+#### Universidad Tecmilenio. Campus Las Torres
+#### Universidad Tecmilenio. Campus San Nicolás
+#### Universidad Tecmilenio. Campus Cuatitlán
+#### Universidad Tecmilenio. Campus Villahermosa
+#### Universidad Tecmilenio. Edición Virtual
