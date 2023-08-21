@@ -22,7 +22,9 @@ El Bootcamp Pensamiento Computacional de Patrones Hermosos, por ejemplo, es un p
 Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como instructora o como participante al bootcamp de este verano 2023.  ¡Te esperamos!
 
 
-#### SEDE Autorizada
+<details> 
+<summary> SEDE Autorizada </summary> 
+  
 <details>
   
   <summary> Instituto Tecnológico Autónomo de México (ITAM) </summary>
@@ -393,3 +395,25 @@ Busca la sede que se encuentre más cercana a tí, ya puedes inscribirte como in
   </table>
 
 </details>
+
+</details>
+
+### Resultados
+
+https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5
+
+![sample video]([https://github.com/MarioR4/marky/assets/84197741/eea4c48e-a8d4-4f23-9013-b492e62a61f5]){width=90}
+
+<img title="Aguascalientes" alt="Aguascalientes" src="assets/img/results/QRO_grupo.JPG" width="892" height="auto">
+
+<p float="left">
+  <img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA6.jpg" height="277" width=auto">
+  <img title="Morelia" alt="Morelia" src="assets/img/results/MRL10.jpeg" height="278" width=auto">
+</p>
+
+<p float="left">
+  <img title="Guadalajara" alt="Guadalajara" src="assets/img/results/GDA10.jpg" height="238" width=auto">
+  <img title="Morelia" alt="Morelia" src="assets/img/results/CCM3.JPG" height="238" width=auto">
+</p>
+
+<img title="Queretaro" alt="Queretaro" src="assets/img/results/AGS9.JPG" width="890" height="auto">
